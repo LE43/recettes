@@ -1,0 +1,135 @@
+{
+  "recettes": {
+    "perte_de_poids": {
+      "eau_par_jour_litres": 2.5,
+      "petit_dejeuner": [
+        {
+          "nom": "Smoothie vert détox",
+          "calories": 250,
+          "proteines": 10,
+          "glucides": 30,
+          "lipides": 5,
+          "ingredients": ["1 pomme", "50g d'épinards", "1 cuillère de protéines en poudre", "200ml d'eau"],
+          "instructions": "Mixer tous les ingrédients jusqu'à obtenir un mélange homogène."
+        },
+        {
+          "nom": "Avoine aux fruits rouges",
+          "calories": 300,
+          "proteines": 8,
+          "glucides": 50,
+          "lipides": 4,
+          "ingredients": ["50g de flocons d'avoine", "100ml de lait d'amande", "50g de fruits rouges"],
+          "instructions": "Mélanger les flocons avec le lait et ajouter les fruits."
+        },
+        {
+          "nom": "Yaourt nature et graines de chia",
+          "calories": 200,
+          "proteines": 12,
+          "glucides": 20,
+          "lipides": 8,
+          "ingredients": ["100g de yaourt grec", "1 cuillère de graines de chia", "1 cuillère de miel"],
+          "instructions": "Mélanger le yaourt et les graines de chia, ajouter le miel pour sucrer."
+        },
+        {
+          "nom": "Toast avocat et œuf",
+          "calories": 220,
+          "proteines": 10,
+          "glucides": 30,
+          "lipides": 8,
+          "ingredients": ["1 tranche de pain complet", "1/2 avocat", "1 œuf poché"],
+          "instructions": "Écraser l'avocat, pocher l'œuf, et assembler sur le pain."
+        }
+      ],
+      "dejeuner": [
+        {
+          "nom": "Salade de poulet grillé aux légumes",
+          "calories": 350,
+          "proteines": 30,
+          "glucides": 20,
+          "lipides": 10,
+          "ingredients": ["100g de poulet", "100g de laitue", "50g de tomates", "30g de concombre", "1 cuillère à soupe de vinaigrette"],
+          "instructions": "Griller le poulet, couper les légumes et mélanger avec la vinaigrette."
+        },
+        {
+          "nom": "Saumon aux légumes rôtis",
+          "calories": 400,
+          "proteines": 25,
+          "glucides": 30,
+          "lipides": 15,
+          "ingredients": ["100g de saumon", "100g de courgettes", "50g de carottes", "1 cuillère à soupe d'huile d'olive"],
+          "instructions": "Rôtir les légumes avec l'huile d'olive et cuire le saumon au four."
+        }
+      ],
+      "diner": [
+        {
+          "nom": "Cabillaud à la vapeur et légumes verts",
+          "calories": 300,
+          "proteines": 25,
+          "glucides": 15,
+          "lipides": 8,
+          "ingredients": ["100g de cabillaud", "50g de brocolis", "50g de haricots verts"],
+          "instructions": "Cuire le cabillaud et les légumes à la vapeur, assaisonner au goût."
+        },
+        {
+          "nom": "Soupe de légumes maison",
+          "calories": 200,
+          "proteines": 5,
+          "glucides": 35,
+          "lipides": 3,
+          "ingredients": ["200g de légumes variés (carottes, poireaux, courgettes)", "500ml de bouillon de légumes"],
+          "instructions": "Cuire les légumes dans le bouillon jusqu'à tendreté et mixer."
+        }
+      ],
+      "encas": [
+        {
+          "nom": "Smoothie aux fruits et graines",
+          "calories": 150,
+          "proteines": 5,
+          "glucides": 20,
+          "lipides": 5,
+          "ingredients": ["1 banane", "200ml de lait d'amande", "1 cuillère de graines de chia"],
+          "instructions": "Mixer tous les ingrédients."
+        },
+        {
+          "nom": "Carottes et houmous",
+          "calories": 100,
+          "proteines": 2,
+          "glucides": 15,
+          "lipides": 5,
+          "ingredients": ["100g de carottes crues", "50g de houmous"],
+          "instructions": "Déguster les carottes avec le houmous."
+        }
+      ]
+    },
+    "prise_de_masse": {
+      "eau_par_jour_litres": 3.5,
+      "petit_dejeuner": [
+        {
+          "nom": "Omelette complète aux légumes",
+          "calories": 500,
+          "proteines": 30,
+          "glucides": 40,
+          "lipides": 20,
+          "ingredients": ["3 œufs", "50g de fromage", "30g de poivrons", "1 cuillère à soupe d'huile d'olive"],
+          "instructions": "Battre les œufs, ajouter les légumes et cuire dans une poêle avec l'huile d'olive."
+        }
+      ]
+      // Récipes réduites pour simplification
+    },
+    "seche": {
+      "eau_par_jour_litres": 3,
+      "petit_dejeuner": [
+        {
+          "nom": "Yaourt grec nature et noix",
+          "calories": 200,
+          "proteines": 10,
+          "glucides": 15,
+          "lipides": 10,
+          "ingredients": ["100g de yaourt grec", "15g de noix"],
+          "instructions": "Mélanger le yaourt et les noix."
+        }
+      ]
+      // Récipes réduites pour simplification
+    }
+  }
+}
